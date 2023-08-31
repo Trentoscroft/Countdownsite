@@ -339,11 +339,11 @@ Primary use:
   height: 100%;
   top: 0;
   left: 0;
-  background: #7579ff;
-  background: -webkit-linear-gradient(top, #6D39DA, #CB95FF);
-  background: -o-linear-gradient(top, #6D39DA, #CB95FF);
-  background: -moz-linear-gradient(top, #6D39DA, #CB95FF);
-  background: linear-gradient(top, #6D39DA, #CB95FF);
+  background: #8c51ff;
+  background: -webkit-linear-gradient(top, #43208b, #deb2ff);
+  background: -o-linear-gradient(top,  #43208b, #deb2ff);
+  background: -moz-linear-gradient(top,  #43208b, #deb2ff);
+  background: linear-gradient(top,  #43208b, #deb2ff);
   opacity: 0.8;
 }
 
