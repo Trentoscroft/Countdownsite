@@ -340,10 +340,10 @@ Primary use:
   top: 0;
   left: 0;
   background: #7579ff;
-  background: -webkit-linear-gradient(top, #b224ef, #7579ff);
-  background: -o-linear-gradient(top, #b224ef, #7579ff);
-  background: -moz-linear-gradient(top, #b224ef, #7579ff);
-  background: linear-gradient(top, #b224ef, #7579ff);
+  background: -webkit-linear-gradient(top, #6D39DA, #9D61FF);
+  background: -o-linear-gradient(top, #6D39DA, #9D61FF);
+  background: -moz-linear-gradient(top, #6D39DA, #9D61FF);
+  background: linear-gradient(top, #6D39DA, #9D61FF);
   opacity: 0.8;
 }
 
